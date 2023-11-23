@@ -1,0 +1,50 @@
+[{
+   "bar": false,
+   "gym": true,
+   "supermarket": true,
+   "restaurant": false,
+   "ex-wife": true
+},
+{
+   "bar": true,
+   "gym": false,
+   "supermarket": true,
+   "restaurant": false,
+   "ex-wife": false
+},
+{
+   "bar": true,
+   "gym": true,
+   "supermarket": false,
+   "restaurant": false,
+   "ex-wife": false
+},
+{
+   "bar": false,
+   "gym": false,
+   "supermarket": true,
+   "restaurant": false,
+   "ex-wife": true
+},
+{
+   "bar": false,
+   "gym": true,
+   "supermarket": false,
+   "restaurant": true,
+   "ex-wife": false
+},
+{
+   "bar": false,
+   "gym": true,
+   "supermarket": true,
+   "restaurant": false,
+   "ex-wife": false
+},
+  {
+   "bar": true,
+   "gym": true,
+   "supermarket": true,
+   "restaurant": true,
+   "ex-wife": true
+}
+]
